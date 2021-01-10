@@ -1,4 +1,4 @@
 # hello-word
-Meu primeiro deposito
+Meu primeiro deposito,
 vamos lá para aprender a programar 
 no GitHub
